@@ -1,7 +1,7 @@
 {
   "name": "kingsleague",
-  "version": "1.0.0",
-  "description": "Midudev course",
+  "version": "1.0.1",
+  "description": "Midudev course Kings League Project",
   "main": "index.js",
   "type": "module",
   "scripts": {
