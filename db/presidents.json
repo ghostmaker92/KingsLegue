@@ -8,67 +8,67 @@
   {
     "id": "juan-guarnizo",
     "name": "Juan Guarnizo",
-    "image": "juan-guarnizo.png",
+    "image": "http://127.0.0.1:8787/static/presidents/juan-guarnizo.png",
     "teamId": 0
   },
   {
     "id": "adri-contreras",
     "name": "Adri Contreras",
-    "image": "adri-contreras.png",
+    "image": "http://127.0.0.1:8787/static/presidents/adri-contreras.png",
     "teamId": 0
   },
   {
     "id": "gerard-romero",
     "name": "Gerard Romero",
-    "image": "gerard-romero.png",
+    "image": "http://127.0.0.1:8787/static/presidents/gerard-romero.png",
     "teamId": 0
   },
   {
     "id": "kun-aguero",
     "name": "Kun Agüero",
-    "image": "kun-aguero.png",
+    "image": "http://127.0.0.1:8787/static/presidents/kun-aguero.png",
     "teamId": 0
   },
   {
     "id": "perxitaa",
     "name": "Perxitaa",
-    "image": "perxitaa.png",
+    "image": "http://127.0.0.1:8787/static/presidents/perxitaa.png",
     "teamId": 0
   },
   {
     "id": "rivers",
     "name": "Rivers",
-    "image": "rivers.png",
+    "image": "http://127.0.0.1:8787/static/presidents/rivers.png",
     "teamId": 0
   },
   {
     "id": "ibai-llanos",
     "name": "Ibai Llanos",
-    "image": "ibai-llanos.png",
+    "image": "http://127.0.0.1:8787/static/presidents/ibai-llanos.png",
     "teamId": 0
   },
   {
     "id": "spursito",
     "name": "Spursito",
-    "image": "spursito.png",
+    "image": "http://127.0.0.1:8787/static/presidents/spursito.png",
     "teamId": 0
   },
   {
     "id": "thegrefg",
     "name": "TheGrefg",
-    "image": "thegrefg.png",
+    "image": "http://127.0.0.1:8787/static/presidents/thegrefg.png",
     "teamId": 0
   },
   {
     "id": "djmariio",
     "name": "DjMaRiiO",
-    "image": "djmariio.png",
+    "image": "http://127.0.0.1:8787/static/presidents/djmariio.png",
     "teamId": 0
   },
   {
     "id": "hnos-buyer",
     "name": "Hnos. Buyer",
-    "image": "hnos-buyer.png",
+    "image": "http://127.0.0.1:8787/static/presidents/hnos-buyer.png",
     "teamId": 0
   }
 ]
