@@ -97,10 +97,11 @@
       "president": {
         "id": "adri-contreras",
         "name": "Adri Contreras",
-        "image": "http://127.0.0.1:8787/static/presidents/adri-contreras.png",
-        "teamId": 0
+        "image": "https://kingsleague.dev/presidents/adri-contreras.webp",
+        "teamId": "el-barrio"
       }
-    }
+    },
+    "rank": 1
   },
   {
     "wins": 1,
@@ -197,10 +198,11 @@
       "president": {
         "id": "djmariio",
         "name": "DjMaRiiO",
-        "image": "http://127.0.0.1:8787/static/presidents/djmariio.png",
+        "image": "https://kingsleague.dev/presidents/djmariio.webp",
         "teamId": "ultimate-mostoles"
       }
-    }
+    },
+    "rank": 2
   },
   {
     "wins": 1,
@@ -300,10 +302,11 @@
       "president": {
         "id": "perxitaa",
         "name": "Perxitaa",
-        "image": "http://127.0.0.1:8787/static/presidents/perxitaa.png",
+        "image": "https://kingsleague.dev/presidents/perxitaa.webp",
         "teamId": "los-troncos-fc"
       }
-    }
+    },
+    "rank": 3
   },
   {
     "wins": 1,
@@ -403,10 +406,11 @@
       "president": {
         "id": "iker-casillas",
         "name": "Iker Casillas",
-        "image": "iker-casillas.png",
+        "image": "https://kingsleague.dev/presidents/iker-casillas.webp",
         "teamId": "1k"
       }
-    }
+    },
+    "rank": 4
   },
   {
     "wins": 1,
@@ -503,10 +507,11 @@
       "president": {
         "id": "thegrefg",
         "name": "TheGrefg",
-        "image": "http://127.0.0.1:8787/static/presidents/thegrefg.png",
+        "image": "https://kingsleague.dev/presidents/thegrefg.webp",
         "teamId": "saiyans-fc"
       }
-    }
+    },
+    "rank": 5
   },
   {
     "wins": 1,
@@ -603,10 +608,11 @@
       "president": {
         "id": "kun-aguero",
         "name": "Kun Agüero",
-        "image": "http://127.0.0.1:8787/static/presidents/kun-aguero.png",
+        "image": "https://kingsleague.dev/presidents/kun-aguero.webp",
         "teamId": "kunisports"
       }
-    }
+    },
+    "rank": 6
   },
   {
     "wins": 0,
@@ -706,10 +712,11 @@
       "president": {
         "id": "gerard-romero",
         "name": "Gerard Romero",
-        "image": "http://127.0.0.1:8787/static/presidents/gerard-romero.png",
-        "teamId": 0
+        "image": "https://kingsleague.dev/presidents/gerard-romero.webp",
+        "teamId": "jijantes-fc"
       }
-    }
+    },
+    "rank": 7
   },
   {
     "wins": 0,
@@ -807,10 +814,11 @@
       "president": {
         "id": "ibai-llanos",
         "name": "Ibai Llanos",
-        "image": "http://127.0.0.1:8787/static/presidents/ibai-llanos.png",
+        "image": "https://kingsleague.dev/presidents/ibai-llanos.webp",
         "teamId": "porcinos-fc"
       }
-    }
+    },
+    "rank": 8
   },
   {
     "wins": 0,
@@ -910,10 +918,11 @@
       "president": {
         "id": "spursito",
         "name": "Spursito",
-        "image": "http://127.0.0.1:8787/static/presidents/spursito.png",
+        "image": "https://kingsleague.dev/presidents/spursito.webp",
         "teamId": "rayo-barcelona"
       }
-    }
+    },
+    "rank": 9
   },
   {
     "wins": 0,
@@ -1010,10 +1019,11 @@
       "president": {
         "id": "hnos-buyer",
         "name": "Hnos. Buyer",
-        "image": "http://127.0.0.1:8787/static/presidents/hnos-buyer.png",
+        "image": "https://kingsleague.dev/presidents/hnos-buyer.webp",
         "teamId": "xbuyer-team"
       }
-    }
+    },
+    "rank": 10
   },
   {
     "wins": 0,
@@ -1110,10 +1120,11 @@
       "president": {
         "id": "juan-guarnizo",
         "name": "Juan Guarnizo",
-        "image": "http://127.0.0.1:8787/static/presidents/juan-guarnizo.png",
+        "image": "https://kingsleague.dev/presidents/juan-guarnizo.webp",
         "teamId": "aniquiladores-fc"
       }
-    }
+    },
+    "rank": 11
   },
   {
     "wins": 0,
@@ -1211,9 +1222,10 @@
       "president": {
         "id": "rivers",
         "name": "Rivers",
-        "image": "http://127.0.0.1:8787/static/presidents/rivers.png",
-        "teamId": 0
+        "image": "https://kingsleague.dev/presidents/rivers.webp",
+        "teamId": "pio-fc"
       }
-    }
+    },
+    "rank": 12
   }
 ]
