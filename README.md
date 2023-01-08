@@ -20,3 +20,5 @@ GET `/presidents/:id`: Devuelve un presidente de la Kings League.
 
 Canal de Twitch --> https://www.twitch.tv/midudev
 
+npm run publish:api
+npm run dev:api
