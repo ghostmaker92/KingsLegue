@@ -21,11 +21,11 @@ app.get('/', (c) => c.json([
 	}
 ]))
 
-app.get('/leaderboard', (c) => {
+app.get('/leaderboard\\/?', (c) => {
 	return c.json(leaderBoard)
 })
 
-app.get('/presidents', (c) => {
+app.get('/presidents\\/?', (c) => {
 	return c.json(presidents)
 })
 
@@ -35,7 +35,7 @@ app.get('/presidents/:id', (c) => {
 	return foundPresident ? c.json(foundPresident) : c.json({message: 'President not found'}, 404)
 })
 
-app.get('/teams', (c) => {
+app.get('/teams\\/?', (c) => {
 	return c.json(teams)
 })
 
