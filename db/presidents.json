@@ -3,13 +3,13 @@
     "id": "iker-casillas",
     "name": "Iker Casillas",
     "image": "iker-casillas.png",
-    "teamId": 0
+    "teamId": "1k"
   },
   {
     "id": "juan-guarnizo",
     "name": "Juan Guarnizo",
     "image": "http://127.0.0.1:8787/static/presidents/juan-guarnizo.png",
-    "teamId": 0
+    "teamId": "aniquiladores-fc"
   },
   {
     "id": "adri-contreras",
@@ -27,13 +27,13 @@
     "id": "kun-aguero",
     "name": "Kun Agüero",
     "image": "http://127.0.0.1:8787/static/presidents/kun-aguero.png",
-    "teamId": 0
+    "teamId": "kunisports"
   },
   {
     "id": "perxitaa",
     "name": "Perxitaa",
     "image": "http://127.0.0.1:8787/static/presidents/perxitaa.png",
-    "teamId": 0
+    "teamId": "los-troncos-fc"
   },
   {
     "id": "rivers",
@@ -45,30 +45,30 @@
     "id": "ibai-llanos",
     "name": "Ibai Llanos",
     "image": "http://127.0.0.1:8787/static/presidents/ibai-llanos.png",
-    "teamId": 0
+    "teamId": "porcinos-fc"
   },
   {
     "id": "spursito",
     "name": "Spursito",
     "image": "http://127.0.0.1:8787/static/presidents/spursito.png",
-    "teamId": 0
+    "teamId": "rayo-barcelona"
   },
   {
     "id": "thegrefg",
     "name": "TheGrefg",
     "image": "http://127.0.0.1:8787/static/presidents/thegrefg.png",
-    "teamId": 0
+    "teamId": "saiyans-fc"
   },
   {
     "id": "djmariio",
     "name": "DjMaRiiO",
     "image": "http://127.0.0.1:8787/static/presidents/djmariio.png",
-    "teamId": 0
+    "teamId": "ultimate-mostoles"
   },
   {
     "id": "hnos-buyer",
     "name": "Hnos. Buyer",
     "image": "http://127.0.0.1:8787/static/presidents/hnos-buyer.png",
-    "teamId": 0
+    "teamId": "xbuyer-team"
   }
 ]

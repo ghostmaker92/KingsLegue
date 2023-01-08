@@ -11,7 +11,7 @@
       "name": "El Barrio",
       "image": "/el-bbarrio.svg",
       "url": "",
-      "president": "???",
+      "presidentId": "adri-contreras",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -43,7 +43,7 @@
       "name": "Los Troncos FC",
       "image": "/los-troncos.png",
       "url": "",
-      "president": "???",
+      "presidentId": "perxitaa",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -63,11 +63,11 @@
     "yellowCards": 0,
     "redCards": 0,
     "team": {
-      "id": "1K",
+      "id": "1k",
       "name": "1K FC",
       "image": "/1K.svg",
       "url": "",
-      "president": "???",
+      "presidentId": "iker-casillas",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -91,7 +91,7 @@
       "name": "Saiyans FC",
       "image": "/saiyans-fc.svg",
       "url": "",
-      "president": "???",
+      "presidentId": "thegrefg",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -115,7 +115,7 @@
       "name": "Kunisports",
       "image": "/kunisports.svg",
       "url": "",
-      "president": "???",
+      "presidentId": "kun-aguero",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -139,7 +139,7 @@
       "name": "Jijantes FC",
       "image": "/jijantes-fc.svg",
       "url": "",
-      "president": "???",
+      "presidentId": "gerard-romero",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -163,7 +163,7 @@
       "name": "Porcinos FC",
       "image": "/porcinos-fc.svg",
       "url": "",
-      "president": "???",
+      "presidentId": "ibai-llanos",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -195,7 +195,7 @@
       "name": "XBUYER TEAM",
       "image": "/xbuyer-team.svg",
       "url": "",
-      "president": "???",
+      "presidentId": "hnos-buyer",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -219,7 +219,7 @@
       "name": "Aniquiladores FC",
       "image": "/aniquiladores.svg",
       "url": "",
-      "president": "???",
+      "presidentId": "juan-guarnizo",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -243,7 +243,7 @@
       "name": "PIO FC",
       "image": "/pio.svg",
       "url": "",
-      "president": "???",
+      "presidentId": "rivers",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
