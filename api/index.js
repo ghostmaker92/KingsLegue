@@ -21,11 +21,11 @@ app.get('/', (c) => c.json([
 	}
 ]))
 
-app.get('/leaderboard\\/?', (c) => {
+app.get('/leaderboard', (c) => {
 	return c.json(leaderBoard)
 })
 
-app.get('/presidents\\/?', (c) => {
+app.get('/presidents', (c) => {
 	return c.json(presidents)
 })
 
@@ -35,7 +35,7 @@ app.get('/presidents/:id', (c) => {
 	return foundPresident ? c.json(foundPresident) : c.json({message: 'President not found'}, 404)
 })
 
-app.get('/teams\\/?', (c) => {
+app.get('/teams', (c) => {
 	return c.json(teams)
 })
 
@@ -46,6 +46,13 @@ app.get('/teams/:id', (c) => {
 })
 
 app.get('/static/*', serveStatic({root: './'}))
+
+app.notFound((c) => {
+	if(c.req.url.at(-1) === '/'){
+		return c.redirect(pahtname.slice(0, -1))
+	}
+	return c.json({message: 'Not Found'}, 404)
+})
 
 export default app
 
