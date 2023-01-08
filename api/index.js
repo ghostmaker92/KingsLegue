@@ -39,6 +39,12 @@ app.get('/teams', (c) => {
 	return c.json(teams)
 })
 
+app.get('/teams/:id', (c) => {
+	const id = c.req.param('id')
+	const foundTeam = teams.find(team => team.id === id)
+	return foundTeam ? c.json(foundTeam) : c.json({message: 'Team not found'}, 404)
+})
+
 app.get('/static/*', serveStatic({root: './'}))
 
 export default app
